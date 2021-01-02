@@ -7,7 +7,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 
 
 💻 Projeto
-Consumindo uma API de cep do Via cep,usando fetch api para praticar. 
+(Para praticar)Consumindo uma API do Via cep utilizando fetch api.
 
 
 Vídeo tutorial:
