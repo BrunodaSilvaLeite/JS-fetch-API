@@ -1,7 +1,7 @@
 🚀  Tecnologias 
 
 Este projeto foi desenvolvido com as seguintes tecnologiasb <br>
--HTML 
+-HTML<br>
 -JavaScript
 
 💻 Projeto
